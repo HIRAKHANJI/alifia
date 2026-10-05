@@ -1,0 +1,29 @@
+{
+ "name": "Alifia Syed \u00b7 Alifia Perfumes",
+ "short_name": "Alifia",
+ "description": "Founder & Fragrance Designer \u00b7 Feel the Fragrance",
+ "start_url": "./?app=1",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#69140D",
+ "theme_color": "#69140D",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
